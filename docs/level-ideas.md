@@ -1,6 +1,6 @@
 track: base
 
-* level 1: login w/ your github ssh key
+* level 0: login w/ your github ssh key
 
 track: docker 101
 
