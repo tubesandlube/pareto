@@ -19,3 +19,7 @@ track: runc
 track: swarm
 
 track: notary
+
+track: security
+
+* vault plugin - by @calavera
