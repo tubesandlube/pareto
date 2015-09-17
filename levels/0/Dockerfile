@@ -3,6 +3,7 @@ MAINTAINER George Lewis <schvin@schvin.net>
 
 # XXX port map
 # XXX kill on exit or after x seconds
+#     make kill generic enough for various exit methods needed
 
 ENV REFRESHED_AT 2015-09-16
 
