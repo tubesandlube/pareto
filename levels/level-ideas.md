@@ -24,3 +24,5 @@ track: security
 
 * vault plugin - by @calavera
  * limit to specific policy rules
+
+track: compose
