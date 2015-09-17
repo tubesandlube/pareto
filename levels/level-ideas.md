@@ -7,6 +7,10 @@ track: docker 101
 * volume to one container
 * volumes from to a second container
 * linked container
+* filesystems
+* loggers
+* x11/audio
+* run a second process to do something (docker exec)
 
 track: api
 
