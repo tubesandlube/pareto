@@ -22,6 +22,7 @@ type Level struct {
     Description string
     Points int
     Maintainer string
+    From string
     LevelEntryPoints []string
     Fingerprint string
     PublicKey string
